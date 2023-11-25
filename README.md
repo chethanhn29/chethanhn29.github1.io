@@ -36,7 +36,7 @@
 #### VIT, Chennai  (March 202 - Present)
 ####  Client : DRDO
 <div align="left">
-  <img src="images/Cognizant.jpg" alt="Cognizant Logo" width="400" height="130"/>
+  <img src="images/drdo.jpg" alt="DRDO Logo" width="400" height="130"/>
   <p>Credit: DRDO</p>
 </div>
 
