@@ -33,27 +33,30 @@
 
 ## 👔 Professional Experience
 ### Artificial Intelligence Developer 
-#### VIT, Chennai  (March 202 - Present)
-####  Client : DRDO
+#### VIT, Chennai  (March 2023 - Present)
+####  Client : [Centre for Artificial Intelligence & Robotics (CAIR),DRDO, Bangalore](https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair#nolink) 
 <div align="left">
-  <img src="images/drdo.jpg" alt="DRDO Logo" width="400" height="130"/>
+  <img src="images/drdo.png" alt="CAIR DRDO Logo" width="250" height="200"/>
   <p>Credit: DRDO</p>
 </div>
 
-- Specialized in ML and NLP using Azure Databricks, PowerBI, and SQL, adapting to shifts and different time zones to meet client demands.
-- Developed and refined ML/NLP applications, ensuring updates aligned with client requirements.
-- Designed interactive data dashboards in PowerBI, translating complex data into intuitive visuals.
-- Utilized Azure Databricks for comprehensive data management, from ingestion to analysis.
-- Collaborated with diverse teams to provide data-driven solutions and effectively communicated insights to varied audiences.
-- Maintained optimal application performance, promptly addressing bugs and deploying updates, especially for an NLP web application on Azure.
+- Implementation of ML & DL techniques: Apply Machine Learning and Deep learning methods for real-time log data analysis.
+- Collect and preprocess data: Use Wazuh SIEM and Python with regex for log data collection, preprocessing, labeling, and transformation of log data.
+- Build and evaluate models: Utilize PyTorch, TensorFlow, and Transformers to create ML, DL, and AI models. Train and optimize models with labeled log data.
+- Deploy and integrate solutions: Collaborate with teams to integrate ML based log analysis into existing cybersecurity infrastructure. Use Docker for efficient deployment and system integration.
 
-### AiEnsured, Bangalore (Intern) (July 2021 - August 2021)
-- Implemented machine learning techniques for optimizing TensorFlow lite, reducing process time and memory usage.
-- Designed and optimized deep learning models for efficiency.
-- Collaborated with the team to enhance machine learning solutions.
+### Research Fellow Intern
+#### [Madras Scientific Research Foundation(MSRF)](https://www.madrasresearch.org/) , Chennai  (Dec 2022 - March 2023)
+- Worked on a research project focused on image recognition using CNN for defect detection in fused deposition modelling.
+- Involved in the development and implementation of a CNN model to identify defects in 3D printed parts. 
+- Participating in the training and evaluation of the model using a dataset of images with various defects
 
-### IIIT Kurnool (Teaching Assistant) (March 2021 - March 2022)
-- Led recitations, graded coursework, and assisted students in understanding machine learning concepts.
+### Machine Learning Intern	   (Sep 2022 – Nov 2022)
+#### [Feynn Labs](https://feynnlabs.com/) , Bangalore  (Sep 2022 - Nov 2022)
+- Participated in a team project focused on the development of an AI product/service prototype. 
+- Assisted in the selection of a prototype idea based on feasibility, viability, and monetization criteria.
+- Developed a business model for the AI product/service, including market analysis, target audience, pricing strategy, and revenue streams. 
+
 
 ## 📜 Certifications
 
