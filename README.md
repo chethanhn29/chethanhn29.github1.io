@@ -73,6 +73,22 @@ _Description_: Completed a comprehensive specialization on machine learning, inc
 **Additional Certificates**:
 - [Udemy Certificates on GitHub](https://github.com/pypi-ahmad/Udemy-Certificates)
 - [Coursera Certificates on GitHub](https://github.com/pypi-ahmad/Coursera-Certificates)
+- [Deep Neural Networks with Pytorch](https://www.coursera.org/account/accomplishments/verify/4APRJRZ3B93T) by Coursera
+- [Deep Learning with Keras and Tensorflow](https://certificates.simplicdn.net/share/4614209_1698670643.pdf) by Simplilearn
+- [Machine Learning with Python](https://freecodecamp.org/certification/chethanhn/machine-learning-with-python-v7) by freeCodeCamp
+- [Multilayer Perceptron](https://olympus.mygreatlearning.com/courses/64308/certificate) by Great Learning
+- [Business Analytics with Excel](https://certificates.simplicdn.net/share/3887343.pdf) by Simplilearn
+- [SQL](https://certificates.simplicdn.net/share/3888982.pdf) by Simplilearn
+- [Statistics](https://certificates.simplicdn.net/share/3874022.pdf) by Simplilearn
+- [Data Scientist Master Program Cerfication](https://success.simplilearn.com/6d7e42a7-5842-4ca7-9eba-73cbabffc53f#gs.1e3bu0) by Simplilearn
+- [Data Science with Python](https://certificates.simplicdn.net/share/3702953.pdf) by Simplilearn
+- [Machine Learning Advanced Certification](https://certificates.simplicdn.net/share/3709679.pdf) by Simplilearn
+- [Tableau](https://certificates.simplicdn.net/share/3742922.pdf) by Simplilearn
+- [Python for Data science](https://certificates.simplicdn.net/share/thumb_3687568_1660274412.png) by Simplilearn
+- [Generative AI with Large Language Models](https://coursera.org/share/4b21792f6551d0c5096f1d761417278f)by Coursera
+-  [LangChain Chat with Your Data](https://coursera.org/share/4b21792f6551d0c5096f1d761417278f) by Deeplearning.ai
+
+
 
 ## 🎨 Projects
 
